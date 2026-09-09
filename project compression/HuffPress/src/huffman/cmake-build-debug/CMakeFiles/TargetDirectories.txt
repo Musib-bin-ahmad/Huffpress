@@ -1,0 +1,3 @@
+D:/C in bme/project compression/HuffPress/src/huffman/cmake-build-debug/CMakeFiles/huffman.dir
+D:/C in bme/project compression/HuffPress/src/huffman/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C in bme/project compression/HuffPress/src/huffman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
